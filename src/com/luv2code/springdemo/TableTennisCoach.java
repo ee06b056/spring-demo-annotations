@@ -11,4 +11,10 @@ public class TableTennisCoach implements Coach {
 		return "Practice backhand ball";
 	}
 
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
